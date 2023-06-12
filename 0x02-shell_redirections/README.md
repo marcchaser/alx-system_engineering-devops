@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+8-cwd_state 
